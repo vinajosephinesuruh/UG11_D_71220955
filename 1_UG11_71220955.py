@@ -1,0 +1,6 @@
+print("Hallo selamat datang di bioskop")
+print("dimanakah kamu ingin menonton?")
+pilihan = input("masukan pilihanmu :")
+# 1 = input("XXI Empire")
+# 2 = input("XXI Amplaz")
+# 3 = input("XXI JCM")
